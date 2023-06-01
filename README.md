@@ -1,4 +1,5 @@
 # Guidebook iOS
+https://apps.apple.com/us/app/guidebook/id428713847
 
 ## Project Setup
 All project setup [references are here](spec/Setup)
